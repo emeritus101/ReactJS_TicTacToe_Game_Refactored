@@ -22,7 +22,7 @@ I have made the following modifications:
 4. Add "Back to top" link to go to top of the page
 
 ## Link for demo file: 
-<a hreaf="https://emeritus101.github.io/ReactJS_Tic_Tac_Toe_Games_Refactored/standalone.html" target="_blank">https://emeritus101.github.io/ReactJS_Tic_Tac_Toe_Games_Refactored/standalone.html</a>
+<a hreaf="https://emeritus101.github.io/ReactJS_TicTacToe_Game_Refactored/standalone.html" target="_blank">https://emeritus101.github.io/ReactJS_TicTacToe_Game_Refactored/standalone.html</a>
 
 ### License information: 
 Free to use under the MIT license https://mit-license.org/
