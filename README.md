@@ -19,9 +19,10 @@ I have made the following modifications:
 1. Adding background and more user interaction
 2. Adding more text and links to the about, history and how-to-play pages
 3. Find some more icons to include in the game instead of using the "X" and "0".
+4. Add "Back to top" link to go to top of the page
 
 ## Link for demo file: 
-https://emeritus101.github.io/ReactJS_Tic_Tac_Toe_Games_Refactored/standalone.html
+<a hreaf="https://emeritus101.github.io/ReactJS_Tic_Tac_Toe_Games_Refactored/standalone.html" target="_blank">https://emeritus101.github.io/ReactJS_Tic_Tac_Toe_Games_Refactored/standalone.html</a>
 
 ### License information: 
 Free to use under the MIT license https://mit-license.org/
