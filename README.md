@@ -1,7 +1,5 @@
 # The Tic Tac Toe game Refactored
 
-# Realtime Bus Tracking System
-
 ![name-of-you-image](https://github.com/emeritus101/ReactJS_TicTacToe_Game_Refactored/blob/main/SampleExerciseRefactoring.JPG)
 
 ## Description: 
